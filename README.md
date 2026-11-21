@@ -2,10 +2,12 @@
 
 Projetos Linux para segurança doméstica, observação de sistemas e IA local.
 
+## Publicado
+
 | Projeto | O que encontras |
 | --- | --- |
-| [MPPT24OS](https://github.com/mppt24/MPPT24OS) | Visão geral do ecossistema e índice dos projetos |
+| [MPPT24OS](https://github.com/mppt24/MPPT24OS) | Portal do ecossistema |
 | [MPPT24 ESCUDO](https://github.com/mppt24/MPPT24OS#mppt24-escudo) | Infográfico do servidor doméstico de segurança |
-| [MPPT24 CORE](https://github.com/mppt24/mppt24-core) | Código, arquitetura e testes para observação e decisão em Linux |
-| [AI Hub](https://github.com/mppt24/ai-hub-publish) | Protótipo de uma API para experimentar modelos locais |
-| [Rust no Termux](https://github.com/mppt24/rustlinux-termux-installer) | Esboços dos scripts de instalação e verificação |
+| [MPPT24 CORE](https://github.com/mppt24/mppt24-core) | Base operacional validada com código, arquitetura e testes |
+
+Consulta as secções [Em evolução](https://github.com/mppt24/MPPT24OS#em-evolu%C3%A7%C3%A3o) e [Em avaliação](https://github.com/mppt24/MPPT24OS#em-avalia%C3%A7%C3%A3o) no índice do MPPT24OS.
