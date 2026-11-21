@@ -8,7 +8,7 @@ Ponto de entrada para os projetos publicados.
 
 ## Onde começar
 
-Abre o [perfil público](https://github.com/mppt24) e escolhe um projeto na tabela.
+Abre o [perfil público](https://github.com/mppt24) e escolhe uma opção em «Por onde começar». Todos os guias públicos continuam no [catálogo do MPPT24OS](https://github.com/mppt24/MPPT24OS/blob/main/GUIA.md#guias-dos-reposit%C3%B3rios-p%C3%BAblicos).
 
 ## Como confirmar
 
