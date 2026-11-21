@@ -1,3 +1,5 @@
+<div lang="pt-PT">
+
 # MPPT24
 
 Projetos Linux para proteger uma rede doméstica, perceber o estado de um servidor e experimentar IA local.
@@ -12,3 +14,5 @@ Projetos Linux para proteger uma rede doméstica, perceber o estado de um servid
 Podes ver o inventário e os guias a partir do telemóvel. Os testes do chat e do CORE têm requisitos próprios, indicados antes dos comandos.
 
 [Índice MPPT24OS](https://github.com/mppt24/MPPT24OS) · [Guia visual do perfil](GUIA.md)
+
+</div>
