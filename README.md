@@ -1,5 +1,7 @@
 # MPPT24
 
+[Guia de leitura, infográfico e cuidados](GUIA.md)
+
 Projetos Linux para segurança doméstica, observação de sistemas e IA local.
 
 ## Publicado
